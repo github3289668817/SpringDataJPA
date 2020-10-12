@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JPA-01/JPA-01.iml" filepath="$PROJECT_DIR$/JPA-01/JPA-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPA-02/JPA-02.iml" filepath="$PROJECT_DIR$/JPA-02/JPA-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPA-03/JPA-03.iml" filepath="$PROJECT_DIR$/JPA-03/JPA-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPA-04/JPA-04.iml" filepath="$PROJECT_DIR$/JPA-04/JPA-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPA-05/JPA-05.iml" filepath="$PROJECT_DIR$/JPA-05/JPA-05.iml" />
+    </modules>
+  </component>
+</project>
